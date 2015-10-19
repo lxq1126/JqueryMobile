@@ -1,0 +1,18 @@
+2015-10-08状态：( )
+精通：CSS + HTML
+熟练：Jquery + Javascript + layer.js + icheck.js +
+了解：Bootstrap3 + Iconfont图标 + JqueryMobile
+工具：CDR + PS + AI + Axure + Edge
+
+
+
+
+2015-10-08 -- 2016-03-1发展方向（ ）：移动端+微信
+
+精通：CSS2/CSS3 + HTML2.0/HTML5 + Jquery + AI(工具) + JSON/XML + XHTML
+
+熟练：Ajax + Javacript + ActionScript + JqueryMobile + Sencha + Zepto移动UI组件 + 响应式页面开发 + 使用HTML5 开发Mobile APP 界面 、Android/Iphone/微信平台 + 微信公众号二次开发 + 第三方SDK接入与维护 + Edge + Node.js + Angular.js + Bootstrap3 + 自适应HTML5界面 + 网页SEO +  fireworks + React
+
+了解：Java + C + websocket + Javacript框架（prototype/YUI/Ext） + HTTP协议 + SEE、REST + ExtJS + requires + kendo-ui + git工作流程 +  stylus/less/sass预编语言开发 +  
+
+
