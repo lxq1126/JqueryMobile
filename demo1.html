@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css">
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+</head>
+<body>
+    <!-- 首页 -->
+    <div class="pageone" data-role="page" id="home">
+        <div data-role="header" data-position="fixed">
+            
+            <h1>币城一个赚钱的网站</h1>
+            <!-- <a href="#" data-role="button" data-icon="search">搜索</a> -->
+            <a href="#bicheng" class="ui-btn-right" data-rel="dialog" data-role="button" data-icon="home">首页</a>
+        </div>
+        <div data-role="content">
+            <div data-role="navbar">
+                <ul>
+                    <li><a href="#" class="ui-state-persist" data-role="button" data-icon="home">首页</a></li>
+                    <li><a href="product.html" data-role="button" data-icon="grid" data-transition="slide">产品介绍</a></li>
+                    <li><a href="#" data-role="button" data-icon="gear">成功案例</a></li>
+                    <li><a href="#" data-role="button" data-icon="star">合作方案</a></li>
+                    <li><a href="#" data-role="button" data-icon="star">联系我们</a></li>
+                </ul>
+            </div>
+            <div data-role="collapsible-set">
+                <div data-role="collapsible" data-collapsed="false">
+                <h1>什么是币城？</h1>
+                <p>币城是一个人人都可以购物与赚钱的平台</p>
+                </div>
+                <div data-role="collapsible">
+                    <h1>币城是如何赚钱的？</h1>
+                    <p>币城是一个人人都可以购物与赚钱的平台</p>
+                </div>
+                <div data-role="collapsible">
+                    <h1>币城的起源？</h1>
+                    <p>币城是一个人人都可以购物与赚钱的平台</p>
+                </div>
+            </div>
+            
+        </div>
+        <div data-role="footer" class="ui-btn" data-position="fixed">
+            <div data-role="controlgroup" data-type="horizontal">
+                <a href="#" data-role="button" data-icon="plus">转播到新浪微博</a>
+                <a href="#" data-role="button" data-icon="plus">转播到腾讯微博</a>
+                <a href="#" data-role="button" data-icon="plus">转播到QQ空间</a>
+                <a href="#introduce" data-transition="slide" data-role="button" data-icon="arrow-r">更多</a>
+            </div>
+            
+        </div>
+    </div>
+    <!-- 首页 end-->
+
+    <!-- 币城简介 -->
+    <div id="bicheng" data-role="page">
+        <div data-role="header">
+            <h1>币城简介</h1>
+        </div>
+        <div data-role="content">
+            <p>1、我是币城</p>
+            <p>2、我也是币城</p>
+        </div>
+        <div data-role="footer">
+            <h1><a href="#home">上海赢科投资有限公司</a></h1>
+        </div>
+    </div>
+    <!-- 币城简介 end-->
+
+    <!-- 上海赢科简介 -->
+    <div data-role="page" id="introduce">
+        <div data-role="header">
+            <h1>上海赢科投资有限公司</h1>
+            <a href="#" data-rel="back" data-inline="true" data-icon="back" data-iconpos="left" data-role="button" data-transition="slide" data-direction="reverse" class="ui-btn-right">返回</a>
+
+        </div>
+        <div data-role="content">
+            <p>1、我是上海赢科投资有限公司</p>
+            <p>2、我也是上海赢科投资有限公司</p>
+        </div>
+        <div data-role="footer">
+            <h1>上海赢科投资有限公司</h1>
+        </div>
+    </div>
+    <!-- 上海赢科简介 end-->
+</body>
+</html>
